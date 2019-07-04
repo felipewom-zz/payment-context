@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+    "projectName": "PaymentContext.Tests",
+    "projectPath": "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Tests/PaymentContext.Tests.csproj",
+    "outputPath": "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj": {
+            "projectPath": "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj"
+          },
+          "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj": {
+            "projectPath": "/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/PaymentContext.Shared.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.3.2, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.9.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
