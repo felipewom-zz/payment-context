@@ -1,7 +1,7 @@
-#.NET Core Payment Domain
+##.NET Core Payment Domain
 
-## restore dependecies
+# restore dependecies
 > dotnet restore
 
-## build
+# build
 > dotnet build
