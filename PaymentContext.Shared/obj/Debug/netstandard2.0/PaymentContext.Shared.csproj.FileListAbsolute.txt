@@ -1,9 +1,0 @@
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.deps.json
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.dll
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/bin/Debug/netstandard2.0/PaymentContext.Shared.pdb
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csprojAssemblyReference.cache
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.csproj.CoreCompileInputs.cache
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfoInputs.cache
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.AssemblyInfo.cs
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.dll
-/media/felipewom/Backup/Dev/courses/modelando-dominios-ricos/PaymentContext/PaymentContext.Shared/obj/Debug/netstandard2.0/PaymentContext.Shared.pdb
